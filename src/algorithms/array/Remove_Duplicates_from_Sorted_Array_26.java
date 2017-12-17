@@ -10,7 +10,7 @@ public class Remove_Duplicates_from_Sorted_Array_26 {
         int[] nums = new int[]{1,1,2,2,2,2,2,4,4,4,4,5};
         System.out.println(removeDuplicates(nums));
         for (int num : nums) {
-            System.out.print(num + ", ");
+            System.out.println(num + ", ");
         }
     }
 
